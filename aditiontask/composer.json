@@ -1,0 +1,23 @@
+{
+    "name": "dariush59/booking-management",
+    "description": "The ADITION adserver provides functionality to its customers for booking and managing advertising campaigns consisting of one or more advertising banners (“Ads”). Each banner belongs to exactly one campaign. Banners are delivered within websites on specific places which are identified by their dimensions.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dariush Mohammadi",
+            "email": "Dariush59@gmail.com"
+        }
+    ],
+    "require": {
+    	"php": ">=7.1.3",
+        "jacwright/restserver": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "BookingManagement\\": "src/BookingManagement"
+        }
+    }
+}
