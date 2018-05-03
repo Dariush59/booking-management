@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "59028687a0e7cdf11f2ceb294cc61846",
+    "content-hash": "ddf5f1b2092d716400751328907d15c9",
     "packages": [
         {
             "name": "jacwright/restserver",
